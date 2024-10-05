@@ -1,2 +1,2 @@
-# .github
-toggerclub/.github is a ✨special ✨ repository 
+# Togger
+reimagining fashion
